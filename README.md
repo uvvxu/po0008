@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=po0008&layout=compact&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
 
-![top langs](https://badgen.net/badge/github/:blue?icon=github)
+![top langs](https://badgen.net/badge/blue?icon=github)
 
 
 <!--
