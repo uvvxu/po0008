@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,github,firebase,heroku)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=po0008&layout=compact&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
