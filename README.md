@@ -1,4 +1,6 @@
-[![Instagram](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://Instagram.com/u_na.o0)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/uv_vxu)
+[![Instagram](https://img.shields.io/badge/-Instagram-%231DA1F2.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/u_na.o0)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvvxu&layout=compact&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
