@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,docker,github,firebase,heroku)](https://skillicons.dev)
+[![Instagram](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://Instagram.com/u_na.o0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvvxu&layout=compact&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
