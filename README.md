@@ -4,6 +4,7 @@ Welcome to My Page.
 [![Instagram](https://img.shields.io/badge/-Instagram-%231DA1F2.svg?&style=flat-square&logo=Instagram&color=ff69b4&logoColor=white)](https://instagram.com/u_na.o0)
 -->
 
-<summary>Status</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvvxu&layout=compact&theme=buefy
+<summary>Status
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvvxu&layout=compact&theme=buefy
 )](https://github.com/anuraghazra/github-readme-stats)
+</summary>
