@@ -1,4 +1,4 @@
-![LaintabGIF](https://user-images.githubusercontent.com/102368834/230585853-f1b8075c-b3e8-4faf-901c-ac675f6b31be.gif)
+
 
 ### 💭Welcome to My page.
 
