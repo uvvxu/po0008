@@ -5,7 +5,7 @@
 I'm Kuriyama Yuuna. This is the page to save my works.  
 I love internet!!
 
-🖥️Device: Surface,iPhone  
+🖥️Device: Windows,linux,IOS
 🌐Editor: VSCode
 
 <!--
